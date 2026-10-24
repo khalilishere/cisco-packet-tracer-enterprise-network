@@ -47,7 +47,7 @@ Die beschriebenen Funktionstests wurden im Rahmen der Simulation durchgeführt.
 
 ## Projektdateien
 
-- `Unternehmensnetzwerk_VLAN_DHCP_FTP.pkt` – Packet-Tracer-Projektdatei
+- `Unternehmensnetzwerk.pkt` – Packet-Tracer-Projektdatei.pkt` – Packet-Tracer-Projektdatei
 - `Router_Config.txt` – Router-Konfiguration und Befehlsausgaben
 - `Switch_Config.txt` – Switch-Konfiguration und Befehlsausgaben
 - `Netzwerkdokumentation.txt` – Technische Dokumentation
