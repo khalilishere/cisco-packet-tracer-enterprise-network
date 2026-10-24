@@ -70,4 +70,4 @@ Ziel dieses persönlichen Lernprojekts ist es, praktische Kenntnisse in Netzwerk
 ![Successful Ping Between VLANs](screenshots/Inter-VLAN-Routing-Ping.PNG)
 
 ### 4. FTP Server Access
-![FTP Server Access](screenshots/FTP-Server-Zugriff.png)
+![FTP Server Access](screenshots/FTP-Server-Zugriff.PNG)
