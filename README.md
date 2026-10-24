@@ -58,3 +58,16 @@ Ziel dieses persönlichen Lernprojekts ist es, praktische Kenntnisse in Netzwerk
 
 **Projektart:** Persönliches Lernprojekt  
 **Software:** Cisco Packet Tracer
+## Screenshots
+
+### 1. Network Topology
+![Network Topology](screenshots/Netzwerktopologie.PNG)
+
+### 2. VLAN Configuration
+![VLAN Configuration](screenshots/VLAN-Konfiguration.PNG)
+
+### 3. Inter-VLAN Routing Test
+![Successful Ping Between VLANs](screenshots/Inter-VLAN-Routing-Ping.PNG)
+
+### 4. FTP Server Access
+![FTP Server Access](screenshots/FTP-Server-Zugriff.png)
